@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Reactjs-Chart-Race
+
+![test1](https://user-images.githubusercontent.com/60804279/119777042-e4cc7d80-beef-11eb-9fe5-a6a04bfa7223.jpg)
+
